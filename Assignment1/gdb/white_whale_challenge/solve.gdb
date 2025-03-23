@@ -1,0 +1,2 @@
+r <<< "whale"
+quit
