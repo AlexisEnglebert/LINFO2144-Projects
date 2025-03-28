@@ -28,7 +28,7 @@ for i in range(max_attempts):
 		response = p.recv(timeout=1)
 		print(f"[DEBUG] Response received: {response}")
 
-		if response and b"alexis" in response or b"user" in response:
+		if response and b"alexis" in response or b"user" in response or b"root" in response or b"admin" in response:
 			p.interactive()
 			break
 		else:
