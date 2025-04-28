@@ -1,0 +1,6 @@
+f806fc5a2a0d5ba2471600758452799c -> rockyou
+e83176eaefcc1ae8c4a23dbc73ebcf122f26cfb9ba5c7cf4763e96c1c38a6c6c -> l33tsupah4x0r
+ac62977c69b2914679684489f417dbcc5bd923c858f8c068ac33bee86cc9a425:cf031883d7f9b72d -> omaehamoushindeiru
+
+
+$argon2id$v =19$m=65536 ,t=3,p=4 $kqVx8ohXApe2s3RlLlHGEw$4zkjrANAlrU1KjsJIYR6C+FJa3USw58Ufr81d5pdnhU -> deathnote 
