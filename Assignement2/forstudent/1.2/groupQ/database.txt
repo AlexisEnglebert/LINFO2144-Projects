@@ -1,0 +1,100 @@
+{"password": "xkcd:dark tan-0-M-`-e", "hash": "686651508a27af5952985e57dc7b16f6e9efbbc10ef80d3b48bd4747a019ba8d", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:true green-8-H-*-k", "hash": "8705d6ace4df05b4e2076004bc4404e04aac4a0aff8a3c6b360909a915dc6969", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:royal purple-3-Q-`-o", "hash": "b10ccf935ea13f66e9455d49dd47ccdd3375a6017a7bf35f36277aa49388f904", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:bluish-7-Q-|-n", "hash": "aa7b91928a2e12e49ea6c2a910052ca34006d9258bfc1b3851646bc3b9649e92", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:deep green-7-R-*-b", "hash": "a22fd8eb1591529a84f18a41326b13c130440878639dd78b622f0e45f222ae15", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:lemon green-0-F-$-c", "hash": "37747b181c01de00e7a0d2bace1a745ebcdb499653f7fa0ba49f284464404a0b", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:fawn-5-S-`-v", "hash": "d19d4fc1cf99218af7415b446af007b110eead3195192674bfd551832d3cc2b6", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:blue green-4-Y-`-x", "hash": "1c1505d80a3a211720600639e28b75bb7fc30016a9e6fb1b2104f546d1025838", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:light mauve-5-E-`-v", "hash": "4b87cede9fae17dbb8e34a1583babc1b5d42ca6e49a7d7df73393523c0f0d3df", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:slate grey-7-E-*-e", "hash": "304e94eb9293d77c4cf18babcedbcec4dc6c067b98e99ee509eef8b795e6e575", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dark red-0-C-$-n", "hash": "9a1fc326363a54fdd2f317d8af28a57170ddba8696530776f439ac0aa8d10322", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dark forest green-9-A-$-j", "hash": "5333bf4eaf7b27cc0d67f1732d24a67c40ae57b5676844a66f1ea0beb2017358", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dark lavender-8-J-`-j", "hash": "8d6beb011d27b102dc08355952350dc403959ebd228457a1430150893f94a2cd", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dark salmon-1-J-$-f", "hash": "c4f27f8ec8151f9fd8f8044f1ac3204193f58d2d4b2e3fc1e8f955237fcda59b", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:emerald green-5-V-$-k", "hash": "ce9ef9fab4df6af41ad00c1ef706c1112169880a463684287f72108001d2d6a4", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:tealish green-9-B-`-y", "hash": "33ba4ddb89777d7e3b49bda7d883ed75fb7174782ed08c878678464126099c06", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:green-6-A-`-j", "hash": "89d20e8ee37480e02674f2e1c959a9ad65466b6bba5999900adf4b4c22c84a2d", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:pale grey-8-V-|-c", "hash": "6ad94ec53a16d05b0f84c27dd96c9586df93535e9d2c77f0340746e82cb5d640", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:olive brown-1-Z-|-f", "hash": "840a8ccc87fc715652159eddb2e7900fcca82a4e5ab707aa408fbb31de9bf812", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:cream-7-D-$-t", "hash": "cb65e243518f66a4cd04a1376d107993233627629f194e2c88a923bc31e382dd", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:bordeaux-8-Z-*-z", "hash": "c0358ca9fb35f608ce4b6484eee5d2b56aefa35f0586cd26e160f2da690d3f77", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:pale sky blue-4-O-$-b", "hash": "9098bb5fd8c287799c12aa825975c0a99f81a8bf3c311accbbfbffdf684c2e62", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:light beige-5-Q-|-n", "hash": "92a58e640f33545c729a6bc2efe224a4f8f5a811f5d146f48361c21d618ec0b3", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:lightish red-0-K-$-n", "hash": "ed987edb665df5c6cfb974b3ba7c663f7d3fef98cef842fc42372b7e6d997f3e", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:royal purple-3-Z-*-i", "hash": "a539763c3fbc094d481184cbc9cc139a3182b9e52946a32e24ff78d3f7945d16", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:bland-2-T-$-r", "hash": "4518bb04af0020f48cbaa62e13e53df65c747bf6e4406026370770f36a32f234", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:lime green-5-X-|-y", "hash": "8f18ad5062a80f3a308856f1afcf268db56db57307b089061ee954f81f2cc848", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:greenish tan-6-H-|-x", "hash": "2e3770d931c29a2b54a8bd4237998fa36e63f17a8ef62d1172b917d940fcbf5d", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:faded pink-8-D-|-r", "hash": "38b20ac7fcda159f89f261683ec9a1c1b04fca9a0756e48e767a6d9a4531983f", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:avocado-1-C-*-o", "hash": "4fec774d4ec79656ac5708f8d33839da869485901070091a89d73c60c6a189f5", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:milk chocolate-3-Y-`-p", "hash": "6a376524756c9a136c8a9555534fd6aaafd64f674886171e0e25980e3f81462a", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:pink-7-J-*-c", "hash": "b56b5a514dd0841475fa56bb9e91c6ac181633eca12ad399315b99f0f07afd1c", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:light grass green-6-B-`-x", "hash": "737cc6760995c74fdcb4b5c090bf83b210b711e8201e5e67b041cfaf5ae8e62a", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dull red-5-G-`-n", "hash": "d546f24cf169f87d0cdf92587498291412858c05fdaca6dac4df90f8071fd7dc", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:olive brown-3-K-|-u", "hash": "9d03d03ca511456631291f558a8f6c7484eb1261d2ee14b7bb3a2df1e88a9b11", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:bile-8-S-`-p", "hash": "bb78f063f1f9c8e30e5f06f56875e2c95442acc0786a544123a2d63064d96f78", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:marine blue-2-Y-`-x", "hash": "0f6768b0aca5c81455285023445e5aef03f01767c1878f715bbeb39b504e33d7", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:soft pink-4-T-*-x", "hash": "e936d010e8625fafe6a15343de7dc6cab996d113b094d96bb6a68a22fd92ca4d", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:deep lavender-7-S-$-t", "hash": "161f06702db7a3f28ec8db316c5014dd82200df4a666dedd79219ecb456f9354", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:weird green-2-V-*-u", "hash": "c9eec42a0a4bcff93a5ce32b95ad6a95acd26b62bc19924dbaf09780ddd0e8e1", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:sickly green-8-T-$-l", "hash": "257ff898ff5c4b03872041288b5426c5ff33c6db457e22e14c0ffa3a027f578b", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:eggshell blue-5-E-*-w", "hash": "3a7184dbc62231ecd546a6a803dc6421384b99034166fab93cae9a77d52c84c5", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:orangish brown-9-C-$-z", "hash": "65793370428e486e7eb65ed048abdd10371f3fb1f4ca86a68a3ebe15ae643aec", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:pale gold-6-U-|-a", "hash": "4536df30e16903a5160ad4c60eb8932091266bc3663b565e49d13a11fbda497e", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:bright yellow green-2-Z-`-d", "hash": "8ba60ba2932d3d224d1ae52fe9cc3de23e875338ae227575c1e9c46424e7195c", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:kelley green-6-Y-*-r", "hash": "92239112bc1a76170e19c260ed16544430a932cd81db4f3e75f90387c0d9b9c2", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:medium green-1-P-|-a", "hash": "8373a520f574a4dc6139abb96234f41eb56416bc906c09bc79be6be86eebb526", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:sky-9-G-*-x", "hash": "416ba72a2e2a1b06fe6acad8970945510616499ecffd315d1dc6b7ef16cd92d1", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:pale lilac-6-C-`-w", "hash": "54800d8306c47b00a4e95a8fee4516089c6449b1cd21769e9045f53e9ca9f286", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dusty blue-5-G-$-o", "hash": "61697d421ff7bb3b997f8b0f9f8245ad2ad628bfb52fac14ee8e8c2d1595bf43", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:very dark green-1-Y-$-n", "hash": "45060e7209177078fd1c95e6579d94ca1086f8668525afb759dea691cba67ba2", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:muted green-5-N-*-n", "hash": "04a886ca4e3db7b9a3b9f2541ee5a9bb1ae603c75751fec32db63d4bf660b8e5", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:poo brown-5-O-`-e", "hash": "e7c7c3631c85cce25943ccc0a38a2168adee13e08d5f431bb79c9cb427a7f96a", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:easter green-2-J-*-d", "hash": "8f70871eecb179e8be5f0b96c35cd5f76c320cfdbe13f442f78ba6c16fd01405", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:white-8-Q-`-k", "hash": "8fecd806ce5a8c4ee77a852b84083c20012d68013e19fd186acffd6fa831356e", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:bright blue-0-A-`-p", "hash": "98b025abf5645a7c58e7027bd3f855f613ce3e567b1825ef0f85ba1d44ae260d", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:grey pink-7-V-*-h", "hash": "a989db509351b316f6b1282a3e47db1e746a1cb155039d6d01d45c3bc64f257d", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:light lime green-6-C-`-y", "hash": "fd71bdbe6937cf413a8acdc8d6b016fb9d69f60e68290b77e1371d28467d1d93", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:green apple-2-Q-$-w", "hash": "cb25bcfc6e1eac5734ed81cd35c667c6c74d3f4ffdd32ffc95c0683d46f19a39", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:sandstone-3-R-$-z", "hash": "2f44d848a90ae4b1228d4b77ee75f23418d636b1eb6ab22531d010bf6f71181d", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dark mustard-8-S-*-v", "hash": "2cd70eb107bb17223e1b321450f58da0c5e9eba736c6cfe68e5851fbf8818327", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:mid green-6-R-$-o", "hash": "75712c8def1aa25f2072ec01d49a2ce38aa4c42ce390da26f76d9169b803d814", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:green/yellow-0-H-*-e", "hash": "e5b077abd74194350a54ae2ed39f886a0895046670599e48cd1599ea8ef561a6", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:faded orange-4-S-`-a", "hash": "a69eac9ae1db25fa45ad8239873011a36fa4c8801da8bb4427a906b1846e51f4", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:brick red-6-P-$-e", "hash": "6292c1bd8ccc3bbd4a1777db10a1eb41ce5f4af44412253ba863d6dba58d819e", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:turquoise blue-6-U-|-r", "hash": "d8a4be1b80025b4b14c86c2b3396f21e732305815a5ca1122c28e6f2095654a5", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:lighter green-1-Q-$-b", "hash": "4e2d1578d90df094f45160c3852af610162ea4d7a22cd02449981861886c5a04", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:warm brown-5-K-*-t", "hash": "3bb1cff67487a78a27b25f7da8399fb29748a9fc41553f681217b85e6b8b0bb1", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dark olive green-1-B-|-k", "hash": "405c28c369a0c5890ff4799ee0c39dfd72d6fdcb530d93af3df0b5d15eee046c", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:shit green-5-O-$-y", "hash": "abb02e38c3d8deba59fa4f50db7075164b8b496cb30628f197bc9ca3e2431cce", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dark blue green-0-R-$-r", "hash": "aee623e946a4e745c5ef7f50cc09f8aee52bf7998434c90c67680b22811ad3a9", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:teal green-4-A-`-b", "hash": "97f8a87bc1773dc0a735527842e6a1958abcf929d8f7cc35a09d823229c84d11", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:bright light blue-9-O-`-i", "hash": "00c8ccd5e578c6f8fd26493bd5203faf0e47c0f3fe0d556ece31bf993a83c353", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:electric pink-2-G-|-u", "hash": "b19d7e1e497e2d3f628a12dd32f75c88b8f972d2db0ac642e7000714b13dcd55", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:cadet blue-7-P-`-a", "hash": "3e1a76b2c9bafa70532935d0660785e7cf9ee4c22118718515f99a26aafc988e", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:marine-8-V-|-w", "hash": "04991a14cf7f2cb3c873f3edead378f7f52d8d3acb7d1ff4f3a33b39f140e408", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:night blue-9-G-*-k", "hash": "f6857c14ba62f44078d945bab7b4b2fd803f44e484a5d9b6a9e46fbbf025720a", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dark blue-6-Z-$-u", "hash": "7893e5ebb38a9cf82a56a6caf7892b32ceb46642fd0399b1edd3e411825e6557", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:light aquamarine-4-J-$-b", "hash": "67a3085ecba60c07e0e89fdc85c4740ba0ea7e9e2a228faa39e1c5a9211e5ea6", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:pale pink-3-L-*-x", "hash": "15ab3d6c2d562896baaa0ccefb9e28fe53def643dd7f3bf76ccf962b305427e8", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:tealish-9-Q-*-b", "hash": "124e6b4226e12d4b4fa50b939b5566b7f291eb737ed86aa1c8828abfc154e250", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:mustard-8-U-*-p", "hash": "11639539b81504f12fb61681023ed390bdedbde4c2cee4d23094e67894ab7e04", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:pastel yellow-5-B-|-j", "hash": "3750c235e2ba52484e1d2a1c77bfa25c4d084c2f8f190aabeeba4837ecdedc63", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:light pea green-7-M-`-l", "hash": "016d0bcd60db02f69cd5febf2cf7dccb9225a87e1830d7847949d1bb948f0f32", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:stone-3-C-*-l", "hash": "13d69d84e50137408d070d27f9a496e3cdad6f6a6565efc08f67242b313bf3d9", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:brownish red-1-M-*-x", "hash": "7f1641a6c1f646ea79673c3c3881ee84f6b5cc904e07ca69907c62d04ba3f811", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:murky green-3-Z-|-a", "hash": "e489b61d795da5afa29aed72cc8637f58375fbd9357f4b28734a86560e8fb640", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:darkish green-6-L-|-r", "hash": "0494a8dd4782966687dd46753e29353a666318f73d39d498fad3f617f96ba46f", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:bright sea green-9-T-|-q", "hash": "c5c761bc383a681559fda23e6b926dc1b4dc1166f2e4cc65c090f5854c41b6ac", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:sickly green-3-A-$-u", "hash": "b63bc11a3072f9636efb26f12623e66208a75550f2cf0af8d28bc68812b61a33", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:brown-1-L-*-s", "hash": "7839bd4f3d19e2eeb1f46e53038ba72499e4f19d179d047ab6f551c2a1a464fa", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:orange pink-0-Y-`-f", "hash": "acd18c5761addcc88b0cdffd5536881088a5cad697dca73cc07de3a0e48fcf26", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:pinkish purple-4-U-`-y", "hash": "f6a9fd531949c2f3c86352856751b59df5b819dc6aea54c4af956d5eaf182151", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:leaf green-3-A-*-d", "hash": "85efc1a4b5e86981180a85f0fa04c2432630b6ecf1891a2365a4ba9ca8a97b08", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:light indigo-3-I-`-c", "hash": "9b06a7dfe02da3bb90d66915f6878d8c805ea347bb99f99ce129340deadfb4d7", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:dark-3-Z-$-s", "hash": "0cc7b9a133ca32abbc456476d1e431a6b7675c6cb8d6851be99cc45913aa17d4", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:teal blue-4-D-*-c", "hash": "890bef4f08e0240a6f309e30f2cd4543f6dc763522f8c5fcc54ecaf748f6d1b2", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:berry-0-X-|-s", "hash": "0b9c44a5ddb57729d8029913a8f21673dfdaec64934fa1c992b0a738040b1217", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:candy pink-3-H-|-b", "hash": "a9b6b435b7e955b496cd63f5116adcc71de1eb078c1bd72e22043d12009b2dc3", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
+{"password": "xkcd:burnt orange-9-X-$-u", "hash": "4caa13004b3c0bde5447dc6b10b45852fcf72535b43e6b98339f70bbfd95f676", "salt": "41aca911e41ad94780f689b44f8a5bc0"}
